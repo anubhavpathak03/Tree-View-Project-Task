@@ -1,0 +1,25 @@
+.tree-node {
+    width: 120px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding: 8px 12px;
+    background: white;
+    border: 2px solid #333;
+    border-radius: 6px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.toggle-btn {
+    width: 22px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background: #333;
+    color: white;
+    font-weight: bold;
+}
