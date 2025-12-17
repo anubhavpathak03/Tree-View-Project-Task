@@ -37,7 +37,22 @@ export const treeData = {
                             expanded: true
                         } 
                     ]
-                }
+                },
+                {
+                    id: "A3", label: "A3", expanded: true,
+                    children: [
+                        { 
+                            id: "A3.1", 
+                            label: "A3.1", 
+                            expanded: true 
+                        },
+                        {
+                            id: "A3.2", 
+                            label: "A3.2", 
+                            expanded: true
+                        } 
+                    ]
+                } 
             ]
         },
         {
