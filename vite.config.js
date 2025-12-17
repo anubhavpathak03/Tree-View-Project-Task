@@ -7,4 +7,5 @@ export default defineConfig({
     tailwindcss(), 
     react()
   ],
+  base:'/Task-View-Project-Task/'
 })
